@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float:right;
+border: 1px solid white;
+}
+
+#play{
+    margin-top: 10px;
+}
+
+.modal_dialog{
+    width: 90%;
+}
+
+.copy_right_footer{
+    width: 100%;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0px;
+   background-color: aliceblue;
+   color: black;
+   text-align: center;
+   position: sticky;
+}
+
+#restart_button{
+    margin-top: 7px;
+}
+
+canvas{
+    border-radius:5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+}
